@@ -1,5 +1,6 @@
 import subprocess
 
+# Added user input
 interface = input("What interface? > ")
 new_mac = input("What MAC Address? > ")
 
